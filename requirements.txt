@@ -1,0 +1,21 @@
+# Data processing and analysis
+numpy==1.23.4
+pandas==1.5.1
+scikit-learn==1.2.2
+
+# Visualization and UI
+plotly==5.11.0
+streamlit==1.18.1
+altair==4.2.2
+
+# Database and caching
+psycopg2-binary==2.9.9
+redis==5.2.1
+sqlalchemy==2.0.37
+
+# HTTP and API
+requests==2.32.3
+
+# Environment and configuration
+python-dotenv==1.0.1
+
